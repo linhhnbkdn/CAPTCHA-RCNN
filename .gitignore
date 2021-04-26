@@ -1,0 +1,4 @@
+.vscode/*
+*.pyc
+captcha_images_v2dev/*
+.DS_Store
